@@ -1,5 +1,51 @@
 # 💫 About Me:
-Hi, I’m Vijesh S 👋<br><br>🚀 Aspiring AI, Cloud & DevOps Engineer | Full-Stack Developer | Problem Solver<br><br>I’m a passionate learner and innovator pursuing B.Tech in Artificial Intelligence & Data Science (AIDS). I love combining my academic knowledge, AI skills, and Cloud/DevOps expertise to build real-world solutions.<br><br>Education<br>B.Tech – Artificial Intelligence & Data Science (AIDS)<br>KGISL Institute of Technology | Expected Graduation: 2028<br><br>Relevant Subjects: Machine Learning, Data Analytics, Cloud Computing, DevOps, Python, Database Management<br><br>Achievements: Consistently performer in AI, Cloud & DevOps courses<br><br>Skills<br><br>Programming & Development: Python, Java, C, HTML, CSS, JavaScript, Flask, React, MongoDB<br>AI & Machine Learning: Data preprocessing, predictive modeling, analytics<br>Cloud & DevOps: AWS, Azure basics, Docker, Kubernetes, CI/CD pipelines, Cloud Deployment<br>Version Control: Git & GitHub<br><br>Soft Skills: Problem-solving, Analytical thinking, Team collaboration, Creativity & Innovation<br><br>Achievements & Certifications<br><br>National Level Hackathon: Participated and contributed innovative solutions<br><br>Coursera Certifications:<br><br>Cloud & DevOps Foundations<br><br>Python Programming<br><br>Java Programming<br><br>Academic Recognition: Awards for excellence in coding competitions, AI projects, and cloud deployments<br><br>Projects<br><br>AI-Powered Placement Assistant: Platform for career guidance with AI chatbots, job analytics, and mock interviews<br><br>Stock Trading Web Application: Real-time stock analysis and portfolio management using Python, Flask & MongoDB<br><br>Cloud & DevOps Projects: Scalable apps deployed on AWS with CI/CD pipelines and Docker containers<br><br>Content Creation: Educational videos on Badminton & Current Affairs<br><br>Talents & Passions<br><br>Cloud & DevOps Enthusiast: Building scalable, secure, automated systems<br><br>Creative Coding: Intuitive, interactive applications with modern UI<br><br>Content Creation & Teaching: Explaining complex topics in a simple, engaging way<br><br>Problem Solving & Innovation: Applying knowledge to practical solutions<br><br>Goals<br><br>Become a full-stack AI & Cloud Developer with expertise in DevOps<br><br>Merge AI, Cloud, and DevOps to create innovative, real-world solutions<br><br>Let’s Connect: LinkedIn<br> | Email
+Hi, I’m Vijesh S 👋<br><br>
+
+🚀 Aspiring AI, Cloud & DevOps Engineer | Full-Stack Developer | Problem Solver<br><br>
+
+I’m a passionate learner and innovator pursuing B.Tech in Artificial Intelligence & Data Science (AIDS). I love combining my academic knowledge, AI skills, and Cloud/DevOps expertise to build real-world solutions.<br><br>
+
+<h2><b>Education</b></h2>
+B.Tech – Artificial Intelligence & Data Science (AIDS)<br>
+KGISL Institute of Technology | Expected Graduation: 2028<br><br>
+Relevant Subjects: Machine Learning, Data Analytics, Cloud Computing, DevOps, Python, Database Management<br><br>
+Achievements: Consistently performer in AI, Cloud & DevOps courses<br><br>
+
+<h2><b>Skills</b></h2>
+Programming & Development: Python, Java, C, HTML, CSS, JavaScript, Flask, React, MongoDB<br>
+AI & Machine Learning: Data preprocessing, predictive modeling, analytics<br>
+Cloud & DevOps: AWS, Azure basics, Docker, Kubernetes, CI/CD pipelines, Cloud Deployment<br>
+Version Control: Git & GitHub<br><br>
+Soft Skills: Problem-solving, Analytical thinking, Team collaboration, Creativity & Innovation<br><br>
+
+<h2><b>Achievements & Certifications</b></h2>
+National Level Hackathon: Participated and contributed innovative solutions<br><br>
+Coursera Certifications:<br>
+Cloud & DevOps Foundations<br>
+Python Programming<br>
+Java Programming<br><br>
+Academic Recognition: Awards for excellence in coding competitions, AI projects, and cloud deployments<br><br>
+
+<h2><b>Projects</b></h2>
+AI-Powered Placement Assistant: Platform for career guidance with AI chatbots, job analytics, and mock interviews<br><br>
+Stock Trading Web Application: Real-time stock analysis and portfolio management using Python, Flask & MongoDB<br><br>
+Cloud & DevOps Projects: Scalable apps deployed on AWS with CI/CD pipelines and Docker containers<br><br>
+Content Creation: Educational videos on Badminton & Current Affairs<br><br>
+
+<h2><b>Talents & Passions</b></h2>
+Cloud & DevOps Enthusiast: Building scalable, secure, automated systems<br>
+Creative Coding: Intuitive, interactive applications with modern UI<br>
+Content Creation & Teaching: Explaining complex topics in a simple, engaging way<br>
+Problem Solving & Innovation: Applying knowledge to practical solutions<br><br>
+
+<h2><b>Goals</b></h2>
+Become a full-stack AI & Cloud Developer with expertise in DevOps<br><br>
+Merge AI, Cloud, and DevOps to create innovative, real-world solutions<br><br>
+
+<h2><b>Let’s Connect</b></h2>
+<a href="https://www.linkedin.com/in/vijesh-vijesh-s-b2b352386" target="_blank">🌐 LinkedIn</a> | 
+<a href="mailto:viju712206@gamil.com">📧 Email</a>
+
 
 
 ## 🌐 Socials:
