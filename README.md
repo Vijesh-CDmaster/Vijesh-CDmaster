@@ -29,8 +29,9 @@ Academic Recognition: Awards for excellence in coding competitions, AI projects,
 <h2><b>Projects</b></h2>
 AI-Powered Placement Assistant: Platform for career guidance with AI chatbots, job analytics, and mock interviews<br><br>
 Stock Trading Web Application: Real-time stock analysis and portfolio management using Python, Flask & MongoDB<br><br>
-Cloud & DevOps Projects: Scalable apps deployed on AWS with CI/CD pipelines and Docker containers<br><br>
-Content Creation: Educational videos on Badminton & Current Affairs<br><br>
+Advanced Interview Preparation Platform: Video-based learning, AI-driven assessments, and company-specific guides<br><br>
+Smart Tourist Safety Monitoring System (AuroraGuard): AI & blockchain-based safety ecosystem with mobile & web apps<br><br>
+Coding AI (Code Generator): Flask-based app to generate full code from prompts without API key<br><br>
 
 <h2><b>Talents & Passions</b></h2>
 Cloud & DevOps Enthusiast: Building scalable, secure, automated systems<br>
@@ -45,6 +46,7 @@ Merge AI, Cloud, and DevOps to create innovative, real-world solutions<br><br>
 <h2><b>Let’s Connect</b></h2>
 <a href="https://www.linkedin.com/in/vijesh-vijesh-s-b2b352386" target="_blank">🌐 LinkedIn</a> | 
 <a href="mailto:viju712206@gamil.com">📧 Email</a>
+
 
 
 
